@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<style>
+<?php include 'index.css'; ?>
+</style>
 <html>
     <head>
         <title>ITK24 Azurei App</title>
