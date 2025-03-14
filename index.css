@@ -1,1 +1,67 @@
 
+/* index.css */
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header styles */
+h1 {
+    font-size: 36px;
+    color: #2C3E50;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: #7F8C8D;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 8px;
+}
+
+/* Link styles */
+a {
+    font-size: 18px;
+    color: #3498DB;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* Link hover effect */
+a:hover {
+    color: #2980B9;
+}
+
+/* Container for better spacing */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
